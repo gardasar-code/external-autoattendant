@@ -1,2 +1,3 @@
-# external-autoattendant
-внешний модуль для взаимодействия с МТС Автосекретарь
+# Autoattendant ExternalMod
+внешний модуль для взаимодействия с МТС Автосекретарь https://aa.mts.ru/
+
